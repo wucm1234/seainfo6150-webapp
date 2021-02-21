@@ -25,9 +25,9 @@ const Article = () => {
               </address>
               <time datetime="2018-11-22">November 22, 2018</time>
               <section>
-                <h1>
+                <h2>
                   The Statue of Liberty's original torch is getting a new home
-                </h1>
+                </h2>
                 <p>
                   Made of copper and gold so that it would shine bright, the
                   first torch took a beating from the weather and was replaced
@@ -51,7 +51,7 @@ const Article = () => {
                 </p>
               </section>
               <section>
-                <h1>The history of the Statue of Liberty</h1>
+                <h2>The history of the Statue of Liberty</h2>
                 <p>
                   Not only is the Statue of Liberty the symbol of New York City,
                   she is also a <em>UNESCO World Heritage</em> site under the
@@ -82,11 +82,12 @@ const Article = () => {
                   says John Piltzecker, superintendent of the Statue of Liberty
                   National Monument. That symbolic spirit inspired the decision
                   to inscribe these famous lines on the statue's pedestal:
+                  </p>
                   <blockquote>
                     Give me your tired, your poor <br /> Your huddled masses
                     yearning to breathe free.
                   </blockquote>
-                </p>
+                
                 <p>
                   In 2017, nearly <b>4.5 million</b> people visited Liberty
                   Island.
@@ -103,7 +104,7 @@ const Article = () => {
                 </p>
               </section>
               <section>
-                <h1>Some facts about the Statue of Liberty</h1>
+                <h2>Some facts about the Statue of Liberty</h2>
                 <ul>
                   <li>
                     Total overall height from the base of the pedestal
